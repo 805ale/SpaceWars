@@ -1,0 +1,15 @@
+﻿  Asteroid.cpp
+  Background.cpp
+  Bullet.cpp
+  EnemySpaceship.cpp
+  Explosion.cpp
+  GameManager.cpp
+  GameObject.cpp
+  Laser.cpp
+  ObjectManager.cpp
+C:\Users\aleee\source\repos\MyGame\MyGame\ObjectManager.cpp(32,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Particles.cpp
+  SoundFX.cpp
+  Spaceship.cpp
+  Generating Code...
+  MyGame.vcxproj -> C:\Users\aleee\source\repos\MyGame\x64\Debug\MyGame.exe
